@@ -3,6 +3,8 @@
  * Compares two HTML strings and returns a diff with <ins> and <del> tags
  */
 
+console.log('hello world');
+
 class HTMLDiff {
     constructor() {
       this.operationMap = {
